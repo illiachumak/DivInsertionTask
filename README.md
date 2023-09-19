@@ -1,2 +1,2 @@
 # DivInsertionTask
-Javascript code to put in browser console to insert a Styled Div on the Categories Page.
+Javascript function to insert a Styled Div on the Categories Page in browser console.
